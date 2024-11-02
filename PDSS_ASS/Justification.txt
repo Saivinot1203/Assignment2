@@ -1,0 +1,3 @@
+Imputed 'Mileage,' 'Engine,' and 'Power' with the mode, as they have categorical-like distributions.
+Imputed 'Seats' with the median to handle numerical skewness effectively.
+Dropped 'New_Price' due to an excessively high percentage of missing values, ensuring data reliability.
